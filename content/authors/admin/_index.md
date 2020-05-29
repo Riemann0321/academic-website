@@ -21,9 +21,14 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Algebraic number theory
+- Langlands program
+- Arithmetic geometry
+- Class field theory
+- Arithmetic differential geometry
+- Arithmetic differential equation
+- Algebraic geometry
+- Elliptic curves
 
 education:
   courses:
