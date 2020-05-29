@@ -14,13 +14,14 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Alberta
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Number theory
 - Algebraic number theory
 - Langlands program
 - Arithmetic geometry
@@ -29,6 +30,7 @@ interests:
 - Arithmetic differential equation
 - Algebraic geometry
 - Elliptic curves
+- Iwasawa theory 
 
 education:
   courses:
