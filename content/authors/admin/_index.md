@@ -31,6 +31,14 @@ interests:
 - Algebraic geometry
 - Elliptic curves
 - Iwasawa theory 
+- Hodge theory
+- Navier–Stokes equations
+- General relativity
+- Quantum field theory 
+- String theory
+- Stochastic analysis
+- Artificial Intelligence 
+
 
 education:
   courses:
